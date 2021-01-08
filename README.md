@@ -8,9 +8,14 @@
 
 ### Connnect with me 📝
 
-[<img align="left" width="50px" src="https://c.tenor.com/x0C6aBxEdOEAAAAj/instagram-sign-on-instagram.gif" />](https://www.instagram.com/__mann_13_/)
+<!--[<img align="left" width="50px" src="https://c.tenor.com/x0C6aBxEdOEAAAAj/instagram-sign-on-instagram.gif" />](https://www.instagram.com/__mann_13_/)
 [<img align="left" width="50px" src="https://media.tenor.com/images/17934898a37921bf04e99f7e52af6f9a/tenor.gif" />](mailto:mannjshah01@gmail.com)
-[<img align="left" width="50px" src="https://media.tenor.com/images/2fe179006f0447bdb102e9e339607e19/tenor.gif" />](https://www.linkedin.com/in/mann-shah-25a215191)
+[<img align="left" width="50px" src="https://media.tenor.com/images/2fe179006f0447bdb102e9e339607e19/tenor.gif" />](https://www.linkedin.com/in/mann-shah-25a215191)-->
+
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][know-by-portfolio.netlify.app]
+<!--[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]-->
+
 
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. alt="know-by-portfolio.netlify | Gmail"
