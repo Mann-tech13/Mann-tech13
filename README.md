@@ -3,6 +3,9 @@
 # Hi there, I'm Mann Shah 👋 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers and designers
+
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
