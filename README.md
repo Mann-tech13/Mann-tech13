@@ -1,4 +1,4 @@
-<img align="right" alt="IMAGE" src="https://drive.google.com/file/d/1PyDq6MJ0dilb4gTy68BtpL_s74tNJ0_K/view?usp=sharing"/>
+<img align="right" alt="IMAGE" src="https://drive.google.com/file/d/12Op454hz3QD5yVrkRdW4u7E2NYHAEbPP/view?usp=sharing"/>
 
 # Hi there, I'm Mann Shah 👋 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
