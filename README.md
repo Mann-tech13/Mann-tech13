@@ -1,4 +1,4 @@
-### Hi there, , I'm Mann Shah 👋
+### Hi there, I'm Mann Shah 👋
 
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-========================
 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
