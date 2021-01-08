@@ -9,7 +9,7 @@
 ### Connnect with me 📝
 
 [<img align="left" width="40px" src="https://c.tenor.com/x0C6aBxEdOEAAAAj/instagram-sign-on-instagram.gif" />](https://www.instagram.com/__mann_13_/)
-[<img align="left" width="40px" src="https://media.tenor.com/images/17934898a37921bf04e99f7e52af6f9a/tenor.gif" />](mailto:mannjshah01@gmail.com)
+[<img align="left" width="35px" src="https://media.tenor.com/images/17934898a37921bf04e99f7e52af6f9a/tenor.gif" />](mailto:mannjshah01@gmail.com)
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
