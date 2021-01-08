@@ -1,10 +1,13 @@
-<img align="right" width=50% height=70% alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
+<img align="right" width=40% height=70% alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
 
 # Hi there, I'm Mann Shah 👋 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
+
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://c.tenor.com/x0C6aBxEdOEAAAAj/instagram-sign-on-instagram.gif" />](https://www.instagram.com/__mann_13_/)
+
 
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
