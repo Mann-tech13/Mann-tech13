@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
 
+<br><br>
+<hr>
+
 ### Connnect with me 📝
 
 [<img align="left"  width="40px" src="https://cdn.dribbble.com/users/164889/screenshots/1275948/reflecting-chrome.gif" />](https://know-by-portfolio.netlify.app)
