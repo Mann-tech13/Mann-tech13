@@ -1,5 +1,5 @@
-### Hi there, I'm Mann Shah 👋
-<hr opacity=50%>
+# Hi there, I'm Vashishth Gajjar 👋 
+## I'm student pursuing B.Tech in Information and Communication Technology 
 
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm student pursuing B.Tech in Information and Communication Technology 
+
