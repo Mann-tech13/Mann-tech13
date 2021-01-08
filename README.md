@@ -1,4 +1,4 @@
-<img align="right" alt="IMAGE" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
+<img align="right" width=100% alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif"/>
 
 # Hi there, I'm Mann Shah 👋 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
