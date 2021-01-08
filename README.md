@@ -1,4 +1,4 @@
-<img align="right" alt="IMAGE" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif/>
+<img align="right" alt="IMAGE" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif"/>
 
 # Hi there, I'm Mann Shah 👋 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
