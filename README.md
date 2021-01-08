@@ -1,4 +1,4 @@
-# Hi there, I'm Vashishth Gajjar 👋 
+# Hi there, I'm Mann Shah 👋 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
 
 <!--
