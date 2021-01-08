@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+<hr width=10px>
 
 ## I'm student pursuing B.Tech in Information and Communication Technology 
