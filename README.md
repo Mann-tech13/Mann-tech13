@@ -23,11 +23,7 @@
 
 
 ### Languages and Tools 🛠
-<img align="left"  width="30px" src="https://img.icons8.com/color/2x/c-programming.png"/>
-C
-<br>
-<img align="left"  width="30px" src="https://img.icons8.com/color/2x/python.png"/>
-Python
+
 <!--
 **Mann-tech13/Mann-tech13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)"
 
