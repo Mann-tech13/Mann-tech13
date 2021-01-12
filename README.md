@@ -24,7 +24,7 @@
 
 ### Languages and Tools 🛠
 <img align="left"  width="30px" src="https://img.icons8.com/color/2x/c-programming.png"/>
-C
+C<br>
 <img align="left"  width="30px" src="https://img.icons8.com/color/2x/python.png"/>
 Python
 <!--
