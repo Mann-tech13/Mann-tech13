@@ -41,7 +41,7 @@
   
 <br><br>
 <h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-tech13&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-tech13&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" height="250" /></p>
 
 <br><br>
 <h2 align="center"> Github Statistics 📈 </h2>
@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Still Coming..
