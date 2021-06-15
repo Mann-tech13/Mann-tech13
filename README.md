@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
+- 👩‍🎓 I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
 
 <br><br>
 <hr>
