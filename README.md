@@ -24,22 +24,27 @@
 
 
 ### Languages and Tools 🛠
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)
-  ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+💻:
+C, Java, Python, HTML, CSS, Javascript, Arduino, OpenCV and computer vision, Basics of Machine Learning, Lua, PyQt and Qt designer, React js
+
+🌐:
+Python: Selenium, smtplib
+ML: scikitlearn, scipy, numpy, pandas, matplotlib, seaborn
+Design Libraries: Bootstrap, Material-UI
+JavaScript libraries: React.js
+
+⚙️:
+Git, Github, Gitbash, WordPress, Wix, Visual studio, Windows
+
+### Experience 🛠
+
+👨‍💻:
+- One month Internship in The Sparks Foundation 
+  - Role: Web developer 
+  - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
+  
+- Currently actively contributing to [Uni-Tap Project](https://github.com/imdiode/Uni-tap)
   
 <br><br>
 <h4 align="center">Top langs :tongue:</h4>
