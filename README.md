@@ -8,7 +8,10 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
 - 👩‍🎓 I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
+- 💼 I'm working as a technical head and front-end supervisor in two start-ups [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) and [Uni-Tap](https://github.com/UniTap).
+- ✨ Currently working on React.js and Java Core
 
+- ☺ Can see my consistency here [LeetCode](https://leetcode.com/mannshah_13/)
 <br><br>
 <hr>
 
@@ -44,7 +47,8 @@ Git, Github, Gitbash, WordPress, Wix, Visual studio, Windows
   - Role: Web developer 
   - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
   
-- Currently actively contributing to [Uni-Tap Project](https://github.com/imdiode/Uni-tap)
+- Currently actively contributing to [Uni-Tap Project](https://github.com/imdiode/Uni-tap) and in [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) in React.js
+
   
 <br><br>
 <h4 align="center">Top langs :tongue:</h4>
