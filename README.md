@@ -48,6 +48,7 @@ Git, Github, Gitbash, WordPress, Wix, Visual studio, Windows
   - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
   
 - Currently actively contributing to [Uni-Tap Project](https://github.com/imdiode/Uni-tap) and in [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) in React.js
+- 3 Month Contributor in [GWOC](https://github.com/girlscript)
 
   
 <br><br>
