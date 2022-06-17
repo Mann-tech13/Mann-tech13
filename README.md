@@ -15,16 +15,6 @@
 <br><br>
 <hr>
 
-### Connnect with me 📝
-
-[<img align="left"  width="40px" src="https://cdn.dribbble.com/users/164889/screenshots/1275948/reflecting-chrome.gif" />](https://mannshah.netlify.app/)
-[<img align="left"  width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />](https://www.linkedin.com/in/mann-shah-25a215191)
-[<img align="left" width="40px" src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" />](mailto:mannjshah01@gmail.com)
-[<img align="left"  width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />](https://www.instagram.com/__mann_13_/)
-
-<br><br>
-<hr>
-
 
 ### Languages and Tools 🛠
 
