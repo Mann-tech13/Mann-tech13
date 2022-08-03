@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
 - 👩‍🎓 I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
-- 💼 I'm working as a technical head and front-end supervisor in two start-ups [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) and [Uni-Tap](https://github.com/UniTap).
+- 💼 I worked as a technical head and front-end supervisor in two start-ups [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) and [Uni-Tap](https://github.com/UniTap).
 - ✨ Currently working on React.js and Java Core
 
 - ☺ Can see my consistency here [LeetCode](https://leetcode.com/mannshah_13/)
