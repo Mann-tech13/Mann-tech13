@@ -5,10 +5,10 @@
 
 ## I'm student pursuing B.Tech in Information and Communication Technology <br>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers and designers
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with other developers.
 - 👩‍🎓 I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
-- 💼 I worked as a technical head and front-end supervisor in two start-ups [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) and [Uni-Tap](https://github.com/UniTap).
+- 💼 I worked as a front-end supervisor in [Uni-Tap](https://github.com/UniTap) and a contributor at [GWOC](https://gwoc.girlscript.tech/)
 - ✨ Currently working on React.js and Java Core
 
 - ☺ Can see my consistency here [LeetCode](https://leetcode.com/mannshah_13/)
@@ -29,7 +29,7 @@
 ### Connect with me !
 
 
-<!-- <a href="https://twitter.com/1225khushali" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a> -->
+
 <a href="https://www.instagram.com/__mann_13_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/mann-shah-25a215191" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
 <a href="mailto:mannshah.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png" width="50" /></a>
@@ -40,16 +40,16 @@
 ### Languages and Tools 🛠
 
 💻:
-C, Java, Python, HTML, CSS, Javascript, Arduino, OpenCV and computer vision, Basics of Machine Learning, Lua, PyQt and Qt designer, React js
+Java, Python, Javascript, React js
 
 🌐:
 Python: Selenium, smtplib
 ML: scikitlearn, scipy, numpy, pandas, matplotlib, seaborn
-Design Libraries: Bootstrap, Material-UI
+Design Libraries: Bootstrap, Material-UI, OpenCV.
 JavaScript libraries: React.js
 
 ⚙️:
-Git, Github, Gitbash, WordPress, Wix, Visual studio, Windows
+Git, Github, Gitbash, Visual studio, Windows
 
 ### Experience 🛠
 
@@ -58,7 +58,8 @@ Git, Github, Gitbash, WordPress, Wix, Visual studio, Windows
   - Role: Web developer 
   - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
   
-- Currently actively contributing to [Uni-Tap Project](https://github.com/imdiode/Uni-tap) and in [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) in React.js
+- Worked as frontend supervisor at [Uni-Tap Project](https://github.com/imdiode/Uni-tap) (Reactjs)
+- Worked as technical head for few months to help my friend to achieve his goal at [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) (Reactjs)
 - 3 Month Contributor in [GWOC](https://github.com/girlscript)
 
   
