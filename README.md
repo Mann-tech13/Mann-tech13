@@ -57,7 +57,8 @@ Git, Github, Gitbash, Visual studio, Windows
 - One month Internship in The Sparks Foundation 
   - Role: Web developer 
   - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
-  
+
+- Working as an Intern [@Promount Technologies LLP](http://www.promounttechnologies.com/)
 - Worked as frontend supervisor at [Uni-Tap Project](https://github.com/imdiode/Uni-tap) (Reactjs)
 - Worked as technical head for few months to help my friend to achieve his goal at [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) (Reactjs)
 - 3 Month Contributor in [GWOC](https://github.com/girlscript)
