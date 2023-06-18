@@ -32,6 +32,7 @@
 ### Connect with me !
 
 <a href="https://www.linkedin.com/in/mann-shah-25a215191" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
+<a href="mailto:mannshah.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 <br><br>
 <hr/>
@@ -45,32 +46,33 @@
 
 ⚙️:  Git | Github | Gitbash | Visual studio | Windows | STS
 
+<!--
 ### Experience 🛠
 
 - One month Internship in The Sparks Foundation ( HTML | CSS | JS )
   - Role: Web developer  (2021)
-  - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
+  - [See my project here](https://github.com/Mann-tech13/Banking_System)
 
 - Worked as frontend supervisor at [Uni-Tap Project](https://github.com/imdiode/Uni-tap) ( Reactjs )
   - Role: Frontend Supervisor ( 2021 ) --- ( March - November )
-  - Work: [Work demo](https://github.com/Mann-tech13/Uni-Tap-website)
+  - [Work demo](https://github.com/Mann-tech13/Uni-Tap-website)
  
 - 3 Month Contributor in [GWOC](https://github.com/girlscript) ( Documentation --- Content Writing )
 
 - Worked as technical head for a few months to help my friend to achieve his goal. [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) ( Reactjs )
   - Role: Technical Head
-  - Work: [Work demo](https://github.com/BHAVYA0034/Orangecaps)
+  - [Work demo](https://github.com/BHAVYA0034/Orangecaps)
 
 - Worked as an Intern [@Promount Technologies LLP](http://www.promounttechnologies.com/) ( Reactjs, Java, SpringBoot )
   -  Role: Full Stack Intern (2022/2023)
-  -  Work: [Work Assessment](https://github.com/Mann-tech13/CRUD_2.0)
+  -  [Work Assessment](https://github.com/Mann-tech13/CRUD_2.0)
     
 - Working as an Intern at [@Pedalsup](https://pedalsup.com/) ( Reactjs, Redux )
   - Role: Full Stack Intern (2023)
 
-  
+-->  
 <br><br>
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top Used Languages</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann-tech13&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" height="250" /></p>
 
 <br><br>
