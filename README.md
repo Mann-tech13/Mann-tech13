@@ -47,7 +47,6 @@
 
 ### Experience 🛠
 
-👨‍💻:
 - One month Internship in The Sparks Foundation ( HTML | CSS | JS )
   - Role: Web developer  (2021)
   - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
