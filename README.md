@@ -3,15 +3,18 @@
 
 # Hi there, I'm Mann Shah 👋 <br>
 
-## I'm student pursuing B.Tech in Information and Communication Technology <br>
+## About Me <br>
 
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other developers.
-- 👩‍🎓 I'm a ICT engineering undergrad at Adani Institute of Infrastructure Engineering.
-- 💼 I worked as a front-end supervisor in [Uni-Tap](https://github.com/UniTap) and a contributor at [GWOC](https://gwoc.girlscript.tech/)
-- ✨ Currently working on React.js and Java Core
+💼  Full Stack Developer
 
-- ☺ Can see my consistency here [LeetCode](https://leetcode.com/mannshah_13/)
+✍️  Currently Learning Nodejs, System Design, DBMS, and DSA.
+
+💡  Leetcode and Github are my tools.
+
+🧩  Solving DSA problems on Coding Ninjas by participating in Striver DSA Challenge 2023
+
+🎓  Recent Graduate from Adani University, Branch -> Information and Communication and Technology.
+
 <br><br>
 <hr>
 
@@ -28,40 +31,43 @@
 
 ### Connect with me !
 
-
-
-<a href="https://www.instagram.com/__mann_13_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/mann-shah-25a215191" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
-<a href="mailto:mannshah.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png" width="50" /></a>
+
 <br><br>
 <hr/>
 
 
 ### Languages and Tools 🛠
 
-💻:
-Java, Python, Javascript, React js
+💻:  Java | Python | Javascript
 
-🌐:
-Python: Selenium, smtplib
-ML: scikitlearn, scipy, numpy, pandas, matplotlib, seaborn
-Design Libraries: Bootstrap, Material-UI, OpenCV.
-JavaScript libraries: React.js
+🌐:  HTML | CSS | Reactjs | OpenCV | Redux | Nextjs | JSP | Servlets | Spring | SpringBoot
 
-⚙️:
-Git, Github, Gitbash, Visual studio, Windows
+⚙️:  Git | Github | Gitbash | Visual studio | Windows | STS
 
 ### Experience 🛠
 
 👨‍💻:
-- One month Internship in The Sparks Foundation 
-  - Role: Web developer 
+- One month Internship in The Sparks Foundation ( HTML | CSS | JS )
+  - Role: Web developer  (2021)
   - Work: [See my project here](https://github.com/Mann-tech13/Banking_System)
 
-- Working as an Intern [@Promount Technologies LLP](http://www.promounttechnologies.com/)
-- Worked as frontend supervisor at [Uni-Tap Project](https://github.com/imdiode/Uni-tap) (Reactjs)
-- Worked as technical head for few months to help my friend to achieve his goal at [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) (Reactjs)
-- 3 Month Contributor in [GWOC](https://github.com/girlscript)
+- Worked as frontend supervisor at [Uni-Tap Project](https://github.com/imdiode/Uni-tap) ( Reactjs )
+  - Role: Frontend Supervisor ( 2021 ) --- ( March - November )
+  - Work: [Work demo](https://github.com/Mann-tech13/Uni-Tap-website)
+ 
+- 3 Month Contributor in [GWOC](https://github.com/girlscript) ( Documentation --- Content Writing )
+
+- Worked as technical head for a few months to help my friend to achieve his goal. [Orange Caps](https://github.com/BHAVYA0034/Orangecaps) ( Reactjs )
+  - Role: Technical Head
+  - Work: [Work demo](https://github.com/BHAVYA0034/Orangecaps)
+
+- Worked as an Intern [@Promount Technologies LLP](http://www.promounttechnologies.com/) ( Reactjs, Java, SpringBoot )
+  -  Role: Full Stack Intern (2022/2023)
+  -  Work: [Work Assessment](https://github.com/Mann-tech13/CRUD_2.0)
+    
+- Working as an Intern at [@Pedalsup](https://pedalsup.com/) ( Reactjs, Redux )
+  - Role: Full Stack Intern (2023)
 
   
 <br><br>
